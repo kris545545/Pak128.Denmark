@@ -3,15 +3,15 @@
 # to get fresh and ready to deploy .tbz2 and .zip archives
 #
 # Change THIS to change the version string encoded in the pak file
-VERSION_STRING = "pak128.Sweden v.0.1"
+VERSION_STRING = "pak128.Nordic v.0.0.1"
 #
 #
 #
 MAKEOBJ ?= ./makeobj
 
 DESTDIR  ?= .
-PAKDIR   ?= $(DESTDIR)/pak128.Sweden-Ex
-DESTFILE ?= simupak128.Sweden-Ex
+PAKDIR   ?= $(DESTDIR)/pak128.Nordic
+DESTFILE ?= simupak128.Nordic
 
 # Dirs for simutranslator
 TR_DIRS :=

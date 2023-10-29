@@ -1,8 +1,9 @@
 # Simutrans files
 Makeobj.exe
+makeobj
 Makeobj-extended.exe
-err.txt
-Pak128.Sweden-Ex/
+error.txt
+Pak128.Nordic/
 
 vehicles/rail vehicles/locomotives/*.xcf*
 vehicles/rail vehicles/multiple unit-railcars/*.xcf*
