@@ -10,7 +10,6 @@ vehicles/rail vehicles/multiple unit-railcars/*.xcf*
 vehicles/rail vehicles/passenger carriages/*.xcf*
 vehicles/rail vehicles/goods wagons/*.xcf*
 
-Documentation/
 *backup*
 
 *.pak
@@ -32,6 +31,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+~$*
 
 # Windows shortcuts
 *.lnk
